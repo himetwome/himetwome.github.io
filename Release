@@ -1,0 +1,11 @@
+Origin: Little 34306's Repo
+Label: 34306
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: A little repo to use
+MD5Sum:
+ f591dcdfdcd751d7c2c5f76eb8332077 19854 Packages
+ b8d08dc0d9d1cb222da0a07b6c4ef22f 7309 Packages.bz2
